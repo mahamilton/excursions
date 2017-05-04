@@ -19,6 +19,8 @@ h2 {
 h3 {
 	color: aquamarine;
 	font-size: 16px;
+	font-weight: lighter;
+	text-decoration: underline;
 }
 
 h4{
